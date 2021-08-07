@@ -1,4 +1,4 @@
-                                                       Read Me
+                                                 Read Me
 Process of Execution:
 
 1. Upload the dataset Zip file containing two folders (images of wearing masks and images of people not wearing masks) in google collab or Jupyter notebook .
