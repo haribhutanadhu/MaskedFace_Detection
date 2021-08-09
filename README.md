@@ -21,5 +21,5 @@ hyperparameters and computed the accuracy of the model using testing data.
 
 | Name                                            | Roll Number | Year      | Department             |
 | ----------------------------------------------- | ----------- | --------- | ---------------------- |
-| [Sujitha Guvvala](https://github.com/SujithaGuvvala) | B19EE033   | Sophomore | Electrical Engineering |
-| [Hari Bhuthanadhu](https://github.com/haribhutanadhu) | B19EE017   | Sophomore | Electrical Engineering |
+| [Sujitha Guvvala](https://github.com/SujithaGuvvala) | B19EE033   | 3rd Year | Electrical Engineering |
+| [Hari Bhuthanadhu](https://github.com/haribhutanadhu) | B19EE017   | 3rd Year | Electrical Engineering |
