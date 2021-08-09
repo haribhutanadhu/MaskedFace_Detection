@@ -16,3 +16,10 @@ computed best hyperparameters.
 hyperparameters and computed the accuracy of the model using testing data.
 6. Compared the models and tried to improve the accuracy of each and every model.
 7. Compared the models using cross validation by plotting box plot.
+
+
+
+| Name                                            | Roll Number | Year      | Department             |
+| ----------------------------------------------- | ----------- | --------- | ---------------------- |
+| [Sujitha Guvvala](https://github.com/SujithaGuvvala) | B19EE033   | Sophomore | Electrical Engineering |
+| [Hari Bhuthanadhu](https://github.com/haribhutanadhu) | B19EE017   | Sophomore | Electrical Engineering |
